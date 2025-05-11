@@ -417,7 +417,7 @@
                       }
                     } else {
                       fU.setValue("");
-                      MessageToast.show("Please upload the correct file");
+                      MessageToast.show("Please upload the correct file - lengthfield");
                     }
                   } else {
                     console.log("Error: wrong xlsx template");
