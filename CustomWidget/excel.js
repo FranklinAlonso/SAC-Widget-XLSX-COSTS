@@ -349,6 +349,7 @@
       
                     var len = 0;
                     console.log(lengthfield)
+                    console.log("Llego")
                     if (lengthfield === 13) {
                       for (var i = 1; i < result.split("[$@~!~@$]").length; i++) {
                         if (result.split("[$@~!~@$]")[i].length > 0) {
