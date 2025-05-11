@@ -373,7 +373,7 @@
                                 'PARTIDAS_DE_PROYECTO': rec[9].trim(),
                                 'COSTO': rec[10].trim(),
                                 'AREA_VENDIBLE': rec[11].trim(),
-                                'AREA__BRUTA': rec[12].trim(),
+                                'AREA_BRUTA': rec[12].trim(),
                               });
                             }
                           }
