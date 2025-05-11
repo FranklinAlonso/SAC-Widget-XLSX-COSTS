@@ -13,14 +13,14 @@
     {
       "kind": "main",
       "tag": "com-frank-dlc-sap-sac-excel",
-      "url": "https://franklinalonso.github.io/SAC-WIDGET-XLSX/CustomWidget/excel.js",
+      "url": "https://franklinalonso.github.io/SAC-Widget-XLSX-COSTS/CustomWidget/excel.js",
       "integrity": "",
       "ignoreIntegrity": true
     },
     {
       "kind": "styling",
       "tag": "com-frankl-dlc-sap-sac-excel-aps",
-      "url": "https://franklinalonso.github.io/SAC-WIDGET-XLSX/CustomWidget/aps_excel.js",
+      "url": "https://franklinalonso.github.io/SAC-Widget-XLSX-COSTS/CustomWidget/aps_excel.js",
       "integrity": "",
       "ignoreIntegrity": true
     }
